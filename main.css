@@ -1,8 +1,29 @@
 body{
-    background-color: rgb(38, 38, 38);
-    color: rgb(228, 228, 228);
+    background-color: rgb(34, 34, 34);
+    color: rgb(255, 255, 255);
 }
 h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: rgb(138, 210, 200);
+    color: rgb(175, 224, 218);
+}
+
+nav{
+    height: 600px;
+    width: 200px;
+    float: left;
+    padding: 10px;
+    line-height: 30px;
+}
+
+footer{
+    text-align: center;
+    margin-right: 200px;
+}
+
+#max{
+    margin-right: 200px;
+}
+
+header{
+    text-align: center;
 }
